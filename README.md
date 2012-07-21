@@ -3,6 +3,8 @@ PrInE
 
 Pr(ime)InE(ulers number) - Finds the first 10 digit prime in consecutive digits of eulers number
 
+Requires NTL c++ library
+
 Written by Catherine Murdoch - catherine@catherinemurdoch.net
 
 I wrote this program as my response to a google recruitment challenge from a while ago. I felt like 
